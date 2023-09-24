@@ -1,0 +1,13 @@
+sprint 1 :
+- Có phần hiển thị tên app
+- Có nút chuyển đổi ngôn ngữ, các phần thuộc về app sẽ đổi ngôn ngữ, không dịch phần dữ liệu người dùng nhập
+- Mỗi công việc và hạn sẽ được hiển thị bên trong các thẻ
+- Sẽ có form nhập thông tin cho người dùng. Form gồm 3 phần: phần nhập đầu việc,phần nhập thời gian hạn và nút gửi
+- Sử dụng bộ nhớ trên trình duyệt, không dùng backend
+
+sprint 2: 
+- Nếu người dùng nhập sai hoặc thiếu thông tin trong form thì sẽ có thông báo và không lưu dữ liệu phần form này vào
+- Có bảng lưu ý tới người dùng không nhập thông tin nhạy cảm và giới hạn 20 thẻ
+- Có nút xóa và sửa trong thẻ việc
+- Chức năng sửa sẽ dùng chung form với thêm, đồng thời cho phép dùng sửa
+- Hiển thị thông báo tới người dùng khi có quá 20 đầu việc
