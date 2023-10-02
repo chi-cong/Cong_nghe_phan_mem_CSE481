@@ -7,7 +7,6 @@ sprint 1 :
 
 sprint 2: 
 - Nếu người dùng nhập sai hoặc thiếu thông tin trong form thì sẽ có thông báo và không lưu dữ liệu phần form này vào
-- Có bảng lưu ý tới người dùng không nhập thông tin nhạy cảm và giới hạn 20 thẻ
 - Có nút xóa và sửa trong thẻ việc
-- Chức năng sửa sẽ dùng chung form với thêm, đồng thời cho phép dùng sửa
+- Chức năng sửa sẽ dùng chung form với thêm
 - Hiển thị thông báo tới người dùng khi có quá 20 đầu việc
